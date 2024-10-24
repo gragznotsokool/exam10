@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static void greet() {
-        System.out.println("Welcome to Git Version Control!");
+        System.out.println("Hello from Version Control!");
     }
 }
